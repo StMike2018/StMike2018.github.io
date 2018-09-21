@@ -1,0 +1,51 @@
+/*/*Selector{
+	Property: value;
+}*/
+}
+h1 {
+	color: #585858;
+	font-size: 36px;
+}
+
+li {
+	display: inline-block;
+	justify-content: center;
+	padding: 2px 8px;
+}
+#div1 {
+		background-color: #dbdbdb;
+		text-align: center;
+		border-bottom: 1px solid black;
+		line-height: 35px;
+		font-size: 110%;
+		font-family: Arial;
+		text-decoration: none;	
+}
+
+}
+span {
+	font-size: 1.5em;
+	border-bottom: 2px grey;
+	border-right: 2px grey;
+	box-shadow: 4px 4px 5px #888888;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+div > a {
+	text-align: center;
+}
+body {
+	background-position: center;
+	background-size: cover;
+	background-image: url("water.jpg");
+}
